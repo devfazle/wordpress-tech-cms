@@ -1,0 +1,1 @@
+# wordpress-tech-theme
